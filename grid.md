@@ -1,0 +1,1 @@
+col-{breakpoint}-count, the {breakpoint} is based on `min-width` media queries. This means it will affect that breakpoint and all those above it. e.g., .col-sm-4 applies to sm, md, lg, xl, and xxl

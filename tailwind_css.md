@@ -1,0 +1,1 @@
+`tailwind-css` and `bootstrap` are rivals that i think both of them I will use in future. So I will learn `tailwind-css` as well.
